@@ -1,0 +1,34 @@
+arena_key,arena_name,arena_coor,arena_lat,arena_long,nearest_airport,airport_coor,airport_lat,airport_long
+1,Golden 1 Center,38°34′49.3″N 121°29′58.6″W,38°34′49.3″N,121°29′58.6″W,Sacramento International Airport,38°41′44″N 121°35′27″W,38°41′44″N,121°35′27″W
+2,State Farm Arena,33°45′26″N 84°23′47″W,33°45′26″N,84°23′47″W,Hartsfield-Jackson International Airport,33°38′12″N 84°25′41″W,33°38′12″N,84°25′41″W
+3,Target Center,44°58′46″N 93°16′34″W,44°58′46″N,93°16′34″W,Minnesota-Saint Paul International Airport,44°52′55″N 093°13′18″W,44°52′55″N,093°13′18″W
+4,Footprint Center,33°26′45″N 112°4′17″W,33°26′45″N,112°4′17″W,Phoenix Sky Harbor International Airport,33°26′03″N 112°00′42″W,33°26′03″N,112°00′42″W
+5,Barclays Center,40°40′57.58″N 73°58′30.81″W,40°40′57.58″N,73°58′30.81″W,John F Kennedy International Airport,40°38′23″N 73°46′44″W,40°38′23″N,73°46′44″W
+6,Frost Bank Center,29°25′37″N 98°26′15″W,29°25′37″N,98°26′15″W,San Antonio International Airport,29°31′36″N 098°28′19″W,29°31′36″N,098°28′19″W
+7,American Airlines Center,32°47′26″N 96°48′37″W,32°47′26″N,96°48′37″W,Dallas Love Field,32°50′50″N 096°51′06″W,32°50′50″N,096°51′06″W
+8,Bradley Center,43°2′37″N 87°55′1″W,43°2′37″N,87°55′1″W,Milwaukee Mitchell International Airport,42°56′34.4″N 87°54′52″W,42°56′34.4″N,87°54′52″W
+9,Fiserv Forum,43°2′42.1″N 87°55′5.4″W,43°2′42.1″N,87°55′5.4″W,Milwaukee Mitchell International Airport,42°56′34.4″N 87°54′52″W,42°56′34.4″N,87°54′52″W
+10,Crypto.com Center,34°02′35″N 118°16′02″W,34°02′35″N,118°16′02″W,Los Angeles International Airport,33°56′33″N 118°24′29″W,33°56′33″N,118°24′29″W
+11,Toyota Center,29°45′3″N 95°21′44″W,29°45′3″N,95°21′44″W,George Bush Intercontinental Airport,29°59′04″N 095°20′29″W,29°59′04″N,095°20′29″W
+12,Moda Center,45°31′53.44″N 122°40′0.35″W,45°31′53.44″N,122°40′0.35″W,Portland International Airport,45°35′19″N 122°35′51″W,45°35′19″N,122°35′51″W
+13,Ball Arena,39°44′55″N 105°0′27″W,39°44′55″N,105°0′27″W,Denver International Airport,39°51′42.012″N 104°40′23.016″W,39°51′42.012″N,104°40′23.016″W
+14,Delta Center,40°46′6″N 111°54′4″W,40°46′6″N,111°54′4″W,Salt Lake City International Airport,40°47′18″N 111°58′40″W,40°47′18″N,111°58′40″W
+15,TD Garden,42°21′58.69″N 71°3′44.02″W,42°21′58.69″N,71°3′44.02″W,Hanscom Field,42°28′12″N 071°17′20″W,42°28′12″N,071°17′20″W
+16,Spectrum Center,35°13′30″N 80°50′21″W,35°13′30″N,80°50′21″W,Charlotte Douglas International Airport,35°12′50″N 080°56′35″W,35°12′50″N,080°56′35″W
+17,Rocket Center,41°29′47″N 81°41′17″W,41°29′47″N,81°41′17″W,Cleveland Hopkins International Airport,41°24′42″N 081°50′59″W,41°24′42″N,081°50′59″W
+18,Paycom Center ,35°27′48″N 97°30′54″W,35°27′48″N,97°30′54″W,Will Rogers International Airport,35°23′35″N 097°36′03″W,35°23′35″N,097°36′03″W
+19,Kaseya Center,25°46′53″N 80°11′17″W,25°46′53″N,80°11′17″W,Miami International Airport,25°47′36″N 080°17′26″W,25°47′36″N,080°17′26″W
+20,Oakland Arena,37°45′1″N 122°12′11″W,37°45′1″N,122°12′11″W,Oakland International Airport,37°43′17″N 122°13′15″W,37°43′17″N,122°13′15″W
+21,Chase Center,37°46′05″N 122°23′15″W,37°46′05″N,122°23′15″W,San Fransisco International Airport,37°37′08″N 122°22′30″W,37°37′08″N,122°22′30″W
+22,Little Caesers Arena,42°20′28″N 83°3′18″W,42°20′28″N,83°3′18″W,Detroit Metropolitcan Wayne County Airport,42°12′45″N 083°21′12″W,42°12′45″N,083°21′12″W
+23,Smoothie King Center,29°56′56″N 90°4′55″W,29°56′56″N,90°4′55″W,Louis Armstrong New Orleans International Airport,29°59′36″N 090°15′29″W,29°59′36″N,090°15′29″W
+24,Capital One Arena,38°53′53″N 77°1′15″W,38°53′53″N,77°1′15″W,Ronald Reagan Washington National Airport,38°51′8″N 77°2′16″W,38°51′8″N,77°2′16″W
+25,Xfinity Mobile Arena,39°54′4″N 75°10′19″W,39°54′4″N,75°10′19″W,Philadelphi International Airport,39°52′19″N 075°14′28″W,39°52′19″N,075°14′28″W
+26,Gainbridge Fieldhouse,39°45′50″N 86°9′20″W,39°45′50″N,86°9′20″W,Indianapolis International Airport,39°43′02″N 086°17′40″W,39°43′02″N,086°17′40″W
+27,Intuit Dome,33°56′42.36″N 118°20′35.16″W,33°56′42.36″N,118°20′35.16″W,Los Angeles International Airport,33°56′33″N 118°24′29″W,33°56′33″N,118°24′29″W
+28,United Center,41°52′50″N 87°40′27″W,41°52′50″N,87°40′27″W,Chicago Midway International Airport,41°47′10″N 87°45′09″W,41°47′10″N,87°45′09″W
+29,Madison Square Garden,40°45′2″N 73°59′37″W,40°45′2″N,73°59′37″W,LaGuardia Airport,40°46′30″N 73°52′30″W,40°46′30″N,73°52′30″W
+30,Scotiabank Arena,43°38′36″N 79°22′45″W,43°38′36″N,79°22′45″W,Toronto Pearson International Airport,43°40′34″N 079°37′50″W,43°40′34″N,079°37′50″W
+31,Amalie Arena,27°56′34″N 82°27′7″W,27°56′34″N,82°27′7″W,Tampa Interational Airport,27°58′47″N 82°32′5″W,27°58′47″N,82°32′5″W
+32,FedExForum,35°8′18″N 90°3′2″W,35°8′18″N,90°3′2″W,Memphis International Airport,35°02′33″N 089°58′36″W,35°02′33″N,089°58′36″W
+33,Kia Center,28°32′21″N 81°23′1″W,28°32′21″N,81°23′1″W,Orlando International Airport,28°25′46″N 81°18′32″W,28°25′46″N,81°18′32″W
