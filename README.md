@@ -4,4 +4,5 @@ This is a repository for our undergraduate honors thesis project to test the abi
 Authors: Oscar Leeper and Sayalee Chivate
 
 [Insert Files Diagram Here]
-<img width="831" height="1661" alt="test_diagram drawio" src="https://github.com/user-attachments/assets/adb6e462-04fe-4f43-977e-203a0b25c58f" />
+<img width="832" height="1661" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/aab1313a-5fba-433b-9bf6-e214e08c213b" />
+
